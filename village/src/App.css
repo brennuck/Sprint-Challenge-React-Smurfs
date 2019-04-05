@@ -1,3 +1,68 @@
 .App {
   text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+.link1 {
+  text-decoration: none;
+  margin: 10px;
+  color: black;
+  background: #add8e6;
+  padding: 20px 43px 20px 43px;
+  border-radius: 9px;
+}
+.link2 {
+  text-decoration: none;
+  margin: 10px;
+  color: black;
+  background: #add8e6;
+  padding: 20px;
+  border-radius: 9px;
+}
+nav {
+  margin-top: 50px;
+}
+.Smurfs h1{
+  margin-top: 50px;
+}
+.Smurfs ul {
+  margin-right: 25px;
+  margin-bottom: 40px;
+}
+.Smurfs ul h3 {
+  border-top: 1px solid lightblue;
+  padding-top: 20px;
+}
+
+.Smurfs {
+  padding-bottom: 50px;
+}
+.ilink {
+  text-decoration: none;
+  color: black;
+  background: #add8e6;
+  padding: 20px;
+  border-radius: 9px;
+}
+.SmurfForm {
+  margin-top: 50px;
+}
+.SmurfForm form {
+  display: flex;
+  flex-direction: column;
+}
+.SmurfForm input {
+  margin-bottom: 20px;
+  padding: 10px;
+  text-align: center;
+  font-size: 15px;
+}
+.SmurfForm button {
+  text-decoration: none;
+  color: black;
+  background: rgb(204, 223, 230);
+  padding: 10px;
+  border-radius: 9px;
+  margin-bottom: 20px;
+  font-size: 15px;
 }
